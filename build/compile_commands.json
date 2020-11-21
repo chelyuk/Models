@@ -1,0 +1,22 @@
+[
+{
+  "directory": "C:/Users/sergey/Documents/projects/Models/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Models.dir/includes_CXX.rsp -g -o CMakeFiles\\Models.dir\\src\\ADC.cpp.obj -c C:\\Users\\sergey\\Documents\\projects\\Models\\src\\ADC.cpp",
+  "file": "C:/Users/sergey/Documents/projects/Models/src/ADC.cpp"
+},
+{
+  "directory": "C:/Users/sergey/Documents/projects/Models/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Models.dir/includes_CXX.rsp -g -o CMakeFiles\\Models.dir\\src\\AngleSensor.cpp.obj -c C:\\Users\\sergey\\Documents\\projects\\Models\\src\\AngleSensor.cpp",
+  "file": "C:/Users/sergey/Documents/projects/Models/src/AngleSensor.cpp"
+},
+{
+  "directory": "C:/Users/sergey/Documents/projects/Models/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Models.dir/includes_CXX.rsp -g -o CMakeFiles\\Models.dir\\src\\main.cpp.obj -c C:\\Users\\sergey\\Documents\\projects\\Models\\src\\main.cpp",
+  "file": "C:/Users/sergey/Documents/projects/Models/src/main.cpp"
+},
+{
+  "directory": "C:/Users/sergey/Documents/projects/Models/build",
+  "command": "C:\\MinGW\\bin\\g++.exe  @CMakeFiles/Models.dir/includes_CXX.rsp -g -o CMakeFiles\\Models.dir\\src\\System.cpp.obj -c C:\\Users\\sergey\\Documents\\projects\\Models\\src\\System.cpp",
+  "file": "C:/Users/sergey/Documents/projects/Models/src/System.cpp"
+}
+]

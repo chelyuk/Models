@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/ADC.hpp
+
+../include/AngleSensor.hpp
+
+../include/System.hpp
+ADC.hpp
+../include/ADC.hpp
+AngleSensor.hpp
+../include/AngleSensor.hpp
+
+C:/Users/sergey/Documents/projects/Models/src/System.cpp
+System.hpp
+C:/Users/sergey/Documents/projects/Models/src/System.hpp
+cmath
+-
+
